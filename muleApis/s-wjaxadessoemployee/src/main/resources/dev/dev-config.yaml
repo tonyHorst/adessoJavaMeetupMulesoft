@@ -1,0 +1,5 @@
+employee_system:
+  host: "xxx"
+  port: "xxx"
+  protocol: "HTTP"
+  path: "/employees"

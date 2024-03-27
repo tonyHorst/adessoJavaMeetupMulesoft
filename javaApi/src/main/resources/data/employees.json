@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dea4d45b-e4b1-4d6a-a1f1-69ad5e46329e",
+    "name": "Christian",
+    "familyName": "Becker",
+    "gender": "male",
+    "management": false
+  },
+  {
+    "id": "a36497dc-69b7-4842-82ab-dfa98162d96b",
+    "name": "Rajesh",
+    "familyName": "Bura",
+    "gender": "male",
+    "management": false
+  },
+  {
+    "id": "974e9d5b-60e3-4f1a-8617-131414fd32d1",
+    "name": "Sanchit",
+    "familyName": "Dua",
+    "gender": "male",
+    "management": false
+  },
+  {
+    "id": "79058cee-2c3f-41d6-8bb2-ea3ad243b73b",
+    "name": "Andre",
+    "familyName": "Eisenmann",
+    "gender": "male",
+    "management": false
+  },
+  {
+    "id": "9f1a6931-d056-42a6-829f-7b2670d4e968",
+    "name": "Marius",
+    "familyName": "Fiebig",
+    "gender": "male",
+    "management": true
+  },
+  {
+    "id": "9f1a6931-d056-42a6-829f-7b2670d4e969",
+    "name": "Mounika",
+    "familyName": "Sarvepalli",
+    "gender": "female",
+    "management": false
+  },
+  {
+    "id": "9f1a6931-d056-42a6-829f-7b2670d4e960",
+    "name": "Kai",
+    "familyName": "Schulte",
+    "gender": "male",
+    "management": true
+  },
+  {
+    "id": "9f1a6931-d056-42a6-829f-7b2670d4e961",
+    "name": "Daniel",
+    "familyName": "Sedlacek",
+    "gender": "male",
+    "management": true
+  },
+  {
+    "id": "9f1a6931-d056-42a6-829f-7b2670d4e962",
+    "name": "Benno",
+    "familyName": "Vuong",
+    "gender": "male",
+    "management": false
+  }
+]

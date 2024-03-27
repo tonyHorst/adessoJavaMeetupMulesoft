@@ -1,0 +1,17 @@
+employee_vacation:
+  host: "xxx"
+  port: "80"
+  protocol: "HTTP"
+  path: "/employee"
+  client_id: "xxx"
+  client_secret: "xxx"
+  base_path: "/api"
+  
+employee_system:
+  host: "xxx"
+  port: "80"
+  protocol: "HTTP"
+  path: "/employee"
+  client_id: "xxx"
+  client_secret: "xxx"
+  base_path: "/api"

@@ -1,0 +1,6 @@
+db:
+  host: "xxx"
+  port: "xxx"
+  database: "xxx"
+  username: "xxx"
+  password: "xxx"
